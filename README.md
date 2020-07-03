@@ -5,7 +5,7 @@ The purpose of the project is to answer the questions asked of me by the CEO of 
 To address the questions asked by Mr. Brito, I utilized RStudio to perform statistical and visual analysis of the data. See "Budweiser_Presentation.html" for all code used
 in the analysis, as well as outputs of said code.
 
-Files contained with are:
+Files contained within are:
 
 1. Beer.csv - a csv file with the beer data given to me by Mr. Brito.
 2. Breweries.csv - a csv file with the brewery data given to me by Mr. Brito.
