@@ -9,7 +9,7 @@ Files contained within are:
 
 1. Beer.csv - a csv file with the beer data given to me by Mr. Brito.
 2. Breweries.csv - a csv file with the brewery data given to me by Mr. Brito.
-3. Budweiser_Presentation.pptx - a powerpoint file with slides that are used in my presentation to Mr. Brito.
+3. Budweiser_Presentation.pptx - a powerpoint file with slides that are used in my presentation to Mr. Brito, as well as a link to a video of the presentation on YouTube.
 4. Budweiser Presentation.Rmd - an R Markdown file containing the R code used to develop the insights used in my presentation to Mr. Brito.
 5. Budweiser-Presentation.html - an html file containing the R code complete with charts and outputs used to develop the insights used in my presentation to Mr. Brito.
 6. EDA Peer Review.docx - a Microsoft Word file containing my peer review and self assessment.
